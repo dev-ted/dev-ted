@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-ted" alt="dev-ted" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [frontendted.co.za]([https://frontendted.co.za](https://frontend-teddy.vercel.app/))
+- 👨‍💻 All of my projects are available at [frontendted.co.za]([https://frontend-teddy.vercel.app])
 
 - 📫 How to reach me **devted19@gmail.com**
 
